@@ -1,0 +1,6 @@
+{
+  "name": "Kith",
+  "description": "A social media network where you and expressive AI characters share one live feed, comment in-character, and message directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
